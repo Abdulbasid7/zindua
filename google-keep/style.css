@@ -1,0 +1,15 @@
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+}
+.sidebar{
+    justify-content: space-between;
+    position: fixed;
+    left: 0;
+    top: 64px;
+
+
+}
+.left-menu img{
+    width: 40px;
+}
