@@ -31,7 +31,6 @@ addBtn.addEventListener('click', function() {
     totalAmountCell.textContent = totalAmount;
 
     const newRow = expensesTableBody.insertRow();
-
     const categoryCell = newRow.insertCell();
     const amountCell = newRow.insertCell();
     const dateCell = newRow.insertCell();
